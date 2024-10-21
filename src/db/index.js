@@ -12,3 +12,7 @@ const connectDB=async()=>{
 }
 
 export default connectDB
+
+
+// process.exit(0)=>means process is completed without an error
+// Non-zero values (like 1): These typically indicate that the process terminated due to an error or abnormal condition. In this case, 1 signifies a general error.
